@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Profile badge](https://www.codewars.com/users/serhatunver/badges/large)](https://www.codewars.com/users/serhatunver)
+[![Profile badge](https://www.codewars.com/users/serhatunver/badges/small)](https://www.codewars.com/users/serhatunver)
 
 <!---
 serhatunver/serhatunver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
