@@ -35,6 +35,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="32" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="32" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="32" alt="go logo"  />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="32" alt="nestjs logo"  />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazon&logoColor=white&style=for-the-badge" height="32" alt="amazonwebservices logo"  />
@@ -42,7 +43,6 @@
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="32" alt="apachekafka logo"  />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="32" alt="kubernetes logo"  />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="32" alt="rabbitmq logo"  />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="32" alt="nextjs logo"  />
 </div>
 
 ###
