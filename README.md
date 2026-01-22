@@ -13,7 +13,7 @@
   </a>
 </div>
 
-#### Contact
+### Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/serhatunver/">
@@ -21,13 +21,11 @@
   </a>
 </div>
 
-#### Languages
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-222222?style=flat&logo=python)
-
-#### Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-222222?style=flat&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-222222?style=flat&logo=nuxt)
@@ -37,8 +35,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-222222?style=flat&logo=tailwindcss)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-222222?style=flat&logo=shadcnui)
 
-#### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-222222?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=flat&logo=mongodb)
@@ -46,8 +42,5 @@
 ![Sanity](https://img.shields.io/badge/Sanity-222222?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+PHRpdGxlPlNhbml0eTwvdGl0bGU+PHBhdGggZD0ibTIzLjMyNyAxNS4yMDUtLjg5My0xLjU1NS00LjMyMSAyLjYzMiA0Ljc5OS02LjExLjcyNi0uNDI2LS4xNzktLjI3LjMzLS40MjEtMS41MTUtMS4yNjEtLjY5My44ODMtMTMuOTkyIDguMTg2IDUuMTczLTYuMjIxIDkuNjM2LTUuMjgyLS45MTUtMS43NjktNS4yNDggMi44NzYgMi41ODQtMy4xMDYtMS40ODEtMS4zMDUtNS44MTYgNi45OTQtNS43NzcgMy4xNjggNC40MjMtNS44NDcgMi43NzEtMS40NDItLjg4LTEuNzg5LTguMDc1IDQuMjAzTDYuMTg2IDQuNDMgNC42NDggMy4xOTggMCA5LjM0OWwuMDcyLjA1OC44NjggMS43NjggNS4xNTMtMi42ODMtNC42OTYgNi4yMDcuNzcuNjE3LjQ1OC44ODUgNS40MjUtMi45NzQtNS45NzQgNy4xODUgMS40ODEgMS4zMDQuMjk3LS4zNTggMTQuNDExLTguNDU5LTQuNzg1IDYuMDk0LjA3OC4wNjUtLjAwNy4wMDUuOTkyIDEuNzI2IDYuMzY0LTMuODc3LTIuNDUxIDMuOTU0IDEuNjQyIDEuMDc3TDI0IDE1LjY0OHoiLz48L3N2Zz4=)
 ![Socket.io](https://img.shields.io/badge/Socket.io-222222?style=flat&logo=socketdotio)
 
-#### Tools
-
-![Git](https://img.shields.io/badge/Git-222222?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-222222?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-222222?style=flat&logo=postman)
